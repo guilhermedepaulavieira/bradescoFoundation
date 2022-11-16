@@ -1,6 +1,6 @@
 # Course Foundation Bradesco  
-Concluid Course - Java programming language - Basic
-Concluid Course - Java programming language - Advanced
+Concluid Course - Java programming language - Basic  
+Concluid Course - Java programming language - Advanced  
 
 Course from bradesco foundation focused on Java Programming
 
